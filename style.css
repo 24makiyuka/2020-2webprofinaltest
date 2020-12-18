@@ -24,7 +24,7 @@ header{
     bottom: 0;
     padding: 0; !important;
     margin: 0; !important;
-    background-color:rgba(10,10,10,0.3);
+
 }
 
 nav{
@@ -81,7 +81,7 @@ li a {
     position: relative;
     overflow: hidden;
 }
-
+/*이미지 확대*/
 .image:hover {
     border: none;
     box-shadow: 2px 2px 4px rgba(0,0,0,0.2);
